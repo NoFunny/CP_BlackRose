@@ -1,0 +1,20 @@
+@font-face {
+    font-family: logoFont;
+    src: url("../Fonts/logo.ttf");
+}
+
+@font-face {
+    font-family: mainFont;
+    src: url("../Fonts/main.ttf");
+}
+
+.logo {
+    font-family: logoFont;
+    font-size: 30px;
+}
+
+.main {
+    font-family: mainFont;
+    font-size: 17px;
+    letter-spacing: 1.5px;
+}

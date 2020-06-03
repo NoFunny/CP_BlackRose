@@ -1,0 +1,19 @@
+.social_network li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+}
+
+.social_network>ul {
+    margin-bottom: 0px !important;
+}
+
+
+.table-dark {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+.headline {
+	text-align: center;
+}
